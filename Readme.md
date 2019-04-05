@@ -3,8 +3,8 @@
 
 * [SessionDataSource.cs](./CS/WebSite/App_Code/Grid/Editing/SessionDataSource.cs) (VB: [SessionDataSource.vb](./VB/WebSite/App_Code/Grid/Editing/SessionDataSource.vb))
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [FileHandler.aspx](./CS/WebSite/FileHandler.aspx) (VB: [FileHandler.aspx.vb](./VB/WebSite/FileHandler.aspx.vb))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [FileHandler.aspx](./CS/WebSite/FileHandler.aspx) (VB: [FileHandler.aspx](./VB/WebSite/FileHandler.aspx))
 * [FileHandler.aspx.cs](./CS/WebSite/FileHandler.aspx.cs) (VB: [FileHandler.aspx.vb](./VB/WebSite/FileHandler.aspx.vb))
 <!-- default file list end -->
 # OBSOLETE - Image Upload in ASPxGridView
